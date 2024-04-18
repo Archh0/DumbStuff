@@ -1,4 +1,4 @@
-import math
+import math # Para futuras alterações do código
 import random
 
 while True:
