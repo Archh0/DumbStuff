@@ -7,8 +7,6 @@ while True:
     print('2. Subtração')
     print('3. Multiplicação')
     print('4. Divisão')
-    print('5. Outras..')
-    print('6. Mais opções... (Em desenvolvimento).')
     print('7. Nenhuma')
 
     Escolha = input('Escolha que tipo de equação queira gerar\n')
